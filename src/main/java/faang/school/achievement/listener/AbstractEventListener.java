@@ -13,7 +13,7 @@ import java.util.List;
 @Component
 @RequiredArgsConstructor
 @Slf4j
-public class AbstractEventListener<T> {
+public abstract class AbstractEventListener<T> {
     private final List<EventHandler<T>> handlers;
     private final ObjectMapper objectMapper;
 
