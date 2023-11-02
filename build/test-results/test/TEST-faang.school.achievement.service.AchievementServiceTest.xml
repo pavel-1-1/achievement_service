@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="faang.school.achievement.service.AchievementServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-09-08T06:52:25" hostname="DESKTOP-T5134UM" time="0.714">
+  <properties/>
+  <testcase name="allAchievements()" classname="faang.school.achievement.service.AchievementServiceTest" time="0.665"/>
+  <testcase name="userAchievement()" classname="faang.school.achievement.service.AchievementServiceTest" time="0.014"/>
+  <testcase name="testHasAchievement()" classname="faang.school.achievement.service.AchievementServiceTest" time="0.003"/>
+  <testcase name="testGetAchievementProgressNonExisting()" classname="faang.school.achievement.service.AchievementServiceTest" time="0.006"/>
+  <testcase name="getAchievement()" classname="faang.school.achievement.service.AchievementServiceTest" time="0.011"/>
+  <testcase name="unearnedAchievements()" classname="faang.school.achievement.service.AchievementServiceTest" time="0.003"/>
+  <testcase name="testGetAchievementProgressExisting()" classname="faang.school.achievement.service.AchievementServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
